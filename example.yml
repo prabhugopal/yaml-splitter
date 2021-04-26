@@ -1,0 +1,10 @@
+spring:
+  profiles:
+    active: local
+test: value
+---
+spring:
+  config:
+    activate:
+      on-profile: dev
+test: overridden value
