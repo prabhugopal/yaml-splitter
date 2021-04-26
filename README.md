@@ -1,6 +1,6 @@
 # yaml-splitter
 
-A Clojure library designed to ... well, that part is up to you.
+A Simple clojure library tool to split the multidoc yaml file into multiple files, provided spring boot profile names so the tools creates appplication-<profile>.yml. Just a tool automate some personal stuff.
 
 ## Usage
 
